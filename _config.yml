@@ -1,6 +1,6 @@
 name: Emma Movsesyan
 bio: Exploring this world is my energy source!
-description: This my online mindbook, where I am saring the things I learn.
+description: 'This my online mindbook, where I am saring the things I learn.'
 external-image: 'false'
 picture: /profile.png
 resume: true
@@ -14,7 +14,7 @@ disqus:
     - project
 facebook: /emma.movsesyan
 twitter: /EMov121
-github: /Em4ML
+github: /M4ML
 email: emmamov121@gmail.com
 authors:
   Emma:
@@ -22,13 +22,13 @@ authors:
     bio: Exploring this world is my energy source!
     external-image: false
     picture: /profile.png
-    twitter: '/EMov121'
+    twitter: /EMov121
   jamesfoster:
     name: Emma Movsesyan
     bio: Exploring this world is my energy source!
     external-image: false
     picture: /profile.png
-    twitter: '/EMov121'
+    twitter: /EMov121
 width: normal
 projects: true
 about: true
