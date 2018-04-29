@@ -1,17 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-28T14:05:15+04:00</updated><id>http://localhost:4000/</id><title type="html">Emma Movsesyan</title><subtitle>This my online mindbook, where I am saring the things I learn.</subtitle><entry><title type="html">Colombia, Gabriel García Márquez, 100 years of solitude</title><link href="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html" rel="alternate" type="text/html" title="Colombia, Gabriel García Márquez, 100 years of solitude" /><published>2018-04-18T00:00:00+04:00</published><updated>2018-04-18T00:00:00+04:00</updated><id>http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-29T13:56:51+04:00</updated><id>http://localhost:4000/</id><title type="html">Emma Movsesyan</title><subtitle>This my online mindbook, where I am saring the things I learn.</subtitle><entry><title type="html">The Books that have influenced my ideologies.</title><link href="http://localhost:4000/blog/2018/04/29/my-book-list.html" rel="alternate" type="text/html" title="The Books that have influenced my ideologies." /><published>2018-04-29T00:00:00+04:00</published><updated>2018-04-29T00:00:00+04:00</updated><id>http://localhost:4000/blog/2018/04/29/my-book-list</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/29/my-book-list.html">&lt;style&gt;
     body {
         margin: auto;
     	width: 50%;
     	padding-top:5%;
     }		
-		a {
-			 text-decoration: none;
-			 color:grey;
+	a {
+		text-decoration: none;
+		color:#C0D7EF;
 		}
+	b, h3 {
+		color:grey;
+		}
+	h1 {
+		color:#C0D7EF;
+	}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;my-list-of-books-that-worth-to-be-reread&quot;&gt;My list of books that worth to be reread&lt;/h3&gt;
+
+&lt;p&gt;
+In this article I will constantly share the books that I have enjoyed the most. Those were mostly the books that helped me to converge more to the answers that I have about this universe. 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/How_to_Create_a_Mind&quot;&gt;“How to create a mind”&lt;/a&gt; written by Computer Scientist Ray Kurzweil &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+This book has helped me to be interested more in human decision making and learning. I have been contemplating on those questions through making parallels between human brain and AI models. As my interest grew after every single page and theory raised by the professor I have finally decided to pursue a Cognitive Neuroscience Degree in Germany in the near future.&lt;br /&gt;
+I recommend this book to every single person who doubts in the ability of human brain and the power of AI. This book gave me a big new breath and a very new dimension to explore the origins of life. The biggest question I am left with after reading the book is, to explore the difference between AI (conscious machines) and conscious homo sapiens.&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;Critics apply their linear intuition to information phenomena that are fundamentally exponential&quot;.&lt;/li&gt;
+&lt;li&gt;&quot;Indeed we resolve ambiguities in much the same way that Watson does- by considering the likelihood of different interpretations of a phrase.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;We are looking for biologically inspired methods that can accelerate work in AI, much of which has progressed without significant insight as to how the brain performs similar functions. I know that our work was greatly accelerated when we gained insights as to how the brain prepares and transforms auditory information.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;It is interesting to note that the methods deployed in AI have evolved to be mathematically very similar to the mechanisms in the neocortex.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Each neocortical pattern recognizer-indeed, each neuron and each neuronal component- is following an algorithm.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Waking up the universe, and then intelligently deciding its fate by infusing (integrating) it with our human intelligence
+in its nonbiological form, is our destiny.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;i&gt;― Ray Kurzweil&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Art_of_Loving&quot;&gt; “The Art of Loving”&lt;/a&gt; written by Psychologist Erich Fromm&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+I have read this book, after experiencing love. I have been experiencing something unsual and very tense, and I could not define it , as I have never experienced it before. Erich Fromm helped me to define my experience, and understand the deep and diverse roots of love.
+&lt;ul&gt;
+&lt;li&gt; &quot;Modern man thinks he loses something - time - when he does not do things quickly. Yet he does not know what to do with the time he gains, except kill it.&quot;&lt;/li&gt;
+
+&lt;li&gt;&quot;If one is not productive in other spheres, one is not productive in the love either.&quot;&lt;/li&gt;
+
+&lt;li&gt; &quot;If you love yourself, you love everybody else as you do yourself. As long as you love another person less than you love yourself, you will not really succeed in loving yourself, but if you love all alike, including yourself, you will love them as one person. Thus he is a great and righteous person who, loving himself, loves all others equally.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;i&gt;― Erich Fromm&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Stranger_(novel)&quot;&gt; “The Outsider” &lt;/a&gt;written by Philosopher Albert Camus&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&quot;I summarized The Stranger a long time ago, with a remark I admit was highly paradoxical: 'In our society any man who does not weep at his mother's funeral runs the risk of being sentenced to death.' I only meant that the hero of my book is condemned because he does not play the game.&quot;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;i&gt;― Albert Camus&lt;/i&gt;
+&lt;br /&gt;
+&lt;p&gt;
+So, the reason I have included this book in the list, is that I always wondered why people could have been judged for not having or showing their feelings and emotions, but not for faking those. For me, the stranger's pure and transparent analyses of his actions help me in some sense figure out and question certain behaviours of mine.
+&lt;/p&gt;
+&lt;/p&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markez.png" /></entry><entry><title type="html">Colombia, Gabriel García Márquez, 100 years of solitude</title><link href="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html" rel="alternate" type="text/html" title="Colombia, Gabriel García Márquez, 100 years of solitude" /><published>2018-04-18T00:00:00+04:00</published><updated>2018-04-18T00:00:00+04:00</updated><id>http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html">&lt;style&gt;
+    body {
+        margin: auto;
+    	width: 50%;
+    	padding-top:5%;
+    }		
+	a {
+		text-decoration: none;
+		color:#C0D7EF;
+	}
+	h3 {
+		color:grey;
+	}
+	h1 {
+		color:#C0D7EF;
+	}
 &lt;/style&gt;
 
 &lt;h3 id=&quot;takeaways-from-one-hundred-years-of-solitude&quot;&gt;TakeAways from “One Hundred Years of Solitude”&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;markez.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Gabriel  García Márquez  was a Colombian novelist. Before starting the analyses of the novel I always like to explore the territory where the writer was living. So, let us first of all try to explore Colombia.
 I would like to figure out things that Colombia is known for first of all. I have used this &lt;a href=&quot;https://www.quora.com/What-is-Colombia-known-for&quot;&gt;link&lt;/a&gt; for reference.&lt;/p&gt;
@@ -92,14 +161,28 @@ But I think that this inference will be true untill the point where the AI will 
   &lt;li&gt;The time is enough for everything.&lt;/li&gt;
   &lt;li&gt;The appocalypse will be when people will travel in a first class, while books will be delievered seperately on trading vagons.&lt;/li&gt;
   &lt;li&gt;The lovers have lost the sense of reality, the understanding of time and have escaped their routine.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markez.png" /></entry><entry><title type="html">Exploring 100 great authors!</title><link href="http://localhost:4000/blog/2018/04/17/yes.html" rel="alternate" type="text/html" title="Exploring  100 great authors!" /><published>2018-04-17T22:44:00+04:00</published><updated>2018-04-17T22:44:00+04:00</updated><id>http://localhost:4000/blog/2018/04/17/yes</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/17/yes.html">&lt;p&gt;Shaping my ideologies through great books!&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markez.png" /></entry><entry><title type="html">Exploring 100 great authors!</title><link href="http://localhost:4000/blog/2018/04/17/yes.html" rel="alternate" type="text/html" title="Exploring  100 great authors!" /><published>2018-04-17T22:44:00+04:00</published><updated>2018-04-17T22:44:00+04:00</updated><id>http://localhost:4000/blog/2018/04/17/yes</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/17/yes.html">&lt;style&gt;
+		a {
+			 text-decoration: none;
+			 color:#C0D7EF;
+		}
+		b, h3 {
+			color:grey;
+		}
+		h1 {
+		color:#C0D7EF;
+		}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;takeaways-from-one-hundred-years-of-solitude&quot;&gt;TakeAways from “One Hundred Years of Solitude”&lt;/h3&gt;
+&lt;p&gt;Shaping my ideologies through great books!&lt;/p&gt;
 
 &lt;p&gt;I have never been of those kids who were obsessed with books. But I was always inspired by people who read books and by people whose hobby was reading. One of my favorite quotes is “Fake it till You make it” , it is inspired by the disciplines of Sigmund Freud and Alfred Adler, who  developed a therapeutic technique that they called “acting as if”.&lt;br /&gt;
 So, after I got accepted to the university I had a very clear goal that I must start reading and make it my hobby. So, already couple of years have past, I understood that there is no other activity that can add more dimensions to my brain than reading and exploring the great authors.&lt;br /&gt;
 I was 16 when I have chosen by myself the first book in the library that has opened the doors to the great multidimensional world of books. This was a book shaping my introductory view on the discipline of philosophy. The book was “Sophie’s World” novel by Norwegian writer Jostein Gaarder. I would suggest it to every single person who wants to explore and start questioning this great universe through philosophy.&lt;br /&gt;
 I am 21 years old now, I have read books from very diverse disciplines and authors. Today is the day I have decided to start accomplishing one of the goals of my bucket list. The goal is to read at least one novel from 100 greatest writers of the world. This is important for me as in this century of data it’s easy to find the best authors rated on very different factors and start to explore their life perspectives. I am taking as a reference the ranked list &lt;a href=&quot;https://www.ranker.com/list/best-writers-of-all-time/ranker-books?ref=collections&amp;amp;l=684620&amp;amp;collectionId=1563&quot;&gt;here&lt;/a&gt;. While I am not going to follow the presented sequence. The way I will choose the author from the list will depend on varios subjective  factors. 
-I am starting with Gabriel García Márquez - “One Hundred Years of Solitude”. I will share my own analyses of the novel in the future post, which can be found &lt;a href=&quot;http://&quot;&gt;here &lt;/a&gt;.&lt;br /&gt;
-I am also going to share my subjective list of great books that have shaped me and my beliefs &lt;a href=&quot;http://&quot;&gt;soon&lt;/a&gt;.&lt;/p&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html">Shaping my ideologies through great books!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">will be available soon</title><link href="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html" rel="alternate" type="text/html" title="will be available soon" /><published>2018-04-17T22:10:00+04:00</published><updated>2018-04-17T22:10:00+04:00</updated><id>http://localhost:4000/project/2018/04/17/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+I am starting with Gabriel García Márquez - “One Hundred Years of Solitude”. I will share my own analyses of the novel in the future post, which can be found &lt;a href=&quot;https://m4ml.github.io/blog/2018/04/18/gabriel-garcia-marquez.html&quot;&gt;here &lt;/a&gt;.&lt;br /&gt;
+I am also going to share my subjective list of great books that have shaped me and my beliefs &lt;a href=&quot;&quot;&gt;my book list &lt;/a&gt;.&lt;/p&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">will be available soon</title><link href="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html" rel="alternate" type="text/html" title="will be available soon" /><published>2018-04-17T22:10:00+04:00</published><updated>2018-04-17T22:10:00+04:00</updated><id>http://localhost:4000/project/2018/04/17/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 

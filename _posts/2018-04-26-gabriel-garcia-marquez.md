@@ -14,14 +14,19 @@ author: M4ML
     	width: 50%;
     	padding-top:5%;
     }		
-		a {
-			 text-decoration: none;
-			 color:grey;
-		}
+	a {
+		text-decoration: none;
+		color:#C0D7EF;
+	}
+	h3 {
+		color:grey;
+	}
+	h1 {
+		color:#C0D7EF;
+	}
 </style>
 
 ### TakeAways from "One Hundred Years of Solitude"
-<img src="markez.png">
 
 Gabriel  García Márquez  was a Colombian novelist. Before starting the analyses of the novel I always like to explore the territory where the writer was living. So, let us first of all try to explore Colombia.
 I would like to figure out things that Colombia is known for first of all. I have used this [link](https://www.quora.com/What-is-Colombia-known-for) for reference.
