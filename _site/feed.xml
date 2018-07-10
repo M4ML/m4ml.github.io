@@ -1,5 +1,188 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-17T15:23:25+04:00</updated><id>http://localhost:4000/</id><title type="html">Emma Movsesyan</title><subtitle>This my online mindbook, where I am saring the things I learn.</subtitle><entry><title type="html">Yess!</title><link href="http://localhost:4000/blog/2018/04/17/yes.html" rel="alternate" type="text/html" title="Yess!" /><published>2018-04-17T22:44:00+04:00</published><updated>2018-04-17T22:44:00+04:00</updated><id>http://localhost:4000/blog/2018/04/17/yes</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/17/yes.html">&lt;p&gt;There were infinitely many techniques I was applying for every problem I was facing. I was applying different approaches for each situation. When my parents get divorced I was searching for people to share my worries and get the right suggestions. Then as I understood that no- one can see the big picture except myself as I am the facer of the problem the suggestions could be very subjective. So, I have started to share my worries with myself and try to find the solutions in myself. In the physmath school I was working as hard as I could in order to get integrated to their community, as after questioning a lot I understood that this may be the most difficult, but the best way to become a real representative of that school. In the US I came to the point when I had an exact algorithm for dealing with my stresses. It was as simple as either changing the case I do not like, or changing myself at that particular case. In conclusion, as a person who believes that it’s possible to transcend into the best version of ourselves, I consider the stresses and difficulties on this journey as usual ones. I see those as the opportunities of improving myself and converging to the best version of mine.khbk
-Reference https://www.stress.org/what-is-stress/&lt;/p&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">There were infinitely many techniques I was applying for every problem I was facing. I was applying different approaches for each situation. When my parents get divorced I was searching for people to share my worries and get the right suggestions. Then as I understood that no- one can see the big picture except myself as I am the facer of the problem the suggestions could be very subjective. So, I have started to share my worries with myself and try to find the solutions in myself. In the physmath school I was working as hard as I could in order to get integrated to their community, as after questioning a lot I understood that this may be the most difficult, but the best way to become a real representative of that school. In the US I came to the point when I had an exact algorithm for dealing with my stresses. It was as simple as either changing the case I do not like, or changing myself at that particular case. In conclusion, as a person who believes that it’s possible to transcend into the best version of ourselves, I consider the stresses and difficulties on this journey as usual ones. I see those as the opportunities of improving myself and converging to the best version of mine.khbk Reference https://www.stress.org/what-is-stress/</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">will be available soon</title><link href="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html" rel="alternate" type="text/html" title="will be available soon" /><published>2018-04-17T22:10:00+04:00</published><updated>2018-04-17T22:10:00+04:00</updated><id>http://localhost:4000/project/2018/04/17/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-29T14:07:19+04:00</updated><id>http://localhost:4000/</id><title type="html">Emma Movsesyan</title><subtitle>This my online mindbook, where I am saring the things I learn.</subtitle><entry><title type="html">The Books that have influenced my ideologies.</title><link href="http://localhost:4000/blog/2018/04/29/my-book-list.html" rel="alternate" type="text/html" title="The Books that have influenced my ideologies." /><published>2018-04-29T00:00:00+04:00</published><updated>2018-04-29T00:00:00+04:00</updated><id>http://localhost:4000/blog/2018/04/29/my-book-list</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/29/my-book-list.html">&lt;style&gt;
+    body {
+        margin: auto;
+    	width: 50%;
+    	padding-top:5%;
+    }		
+	a {
+		text-decoration: none;
+		color:#C0D7EF;
+		}
+	b, h3 {
+		color:grey;
+		}
+	h1 {
+		color:#C0D7EF;
+	}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;my-list-of-books-that-worth-to-be-reread&quot;&gt;My list of books that worth to be reread&lt;/h3&gt;
+
+&lt;p&gt;
+In this article I will constantly share the books that I have enjoyed the most. Those were mostly the books that helped me to converge more to the answers that I have about this universe. 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/How_to_Create_a_Mind&quot;&gt;“How to create a mind”&lt;/a&gt; written by Computer Scientist Ray Kurzweil &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+This book has helped me to be interested more in human decision making and learning. I have been contemplating on those questions through making parallels between human brain and AI models. As my interest grew after every single page and theory raised by the professor I have finally decided to pursue a Cognitive Neuroscience Degree in Germany in the near future.&lt;br /&gt;
+I recommend this book to every single person who doubts in the ability of human brain and the power of AI. This book gave me a big new breath and a very new dimension to explore the origins of life. The biggest question I am left with after reading the book is, to explore the difference between AI (conscious machines) and conscious homo sapiens.&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;Critics apply their linear intuition to information phenomena that are fundamentally exponential&quot;.&lt;/li&gt;
+&lt;li&gt;&quot;Indeed we resolve ambiguities in much the same way that Watson does- by considering the likelihood of different interpretations of a phrase.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;We are looking for biologically inspired methods that can accelerate work in AI, much of which has progressed without significant insight as to how the brain performs similar functions. I know that our work was greatly accelerated when we gained insights as to how the brain prepares and transforms auditory information.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;It is interesting to note that the methods deployed in AI have evolved to be mathematically very similar to the mechanisms in the neocortex.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Each neocortical pattern recognizer-indeed, each neuron and each neuronal component- is following an algorithm.&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Waking up the universe, and then intelligently deciding its fate by infusing (integrating) it with our human intelligence
+in its nonbiological form, is our destiny.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;i&gt;― Ray Kurzweil&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Art_of_Loving&quot;&gt; “The Art of Loving”&lt;/a&gt; written by Psychologist Erich Fromm&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+I have read this book, after experiencing love. I have been experiencing something unsual and very tense, and I could not define it , as I have never experienced it before. Erich Fromm helped me to define my experience, and understand the deep and diverse roots of love.
+&lt;ul&gt;
+&lt;li&gt; &quot;Modern man thinks he loses something - time - when he does not do things quickly. Yet he does not know what to do with the time he gains, except kill it.&quot;&lt;/li&gt;
+
+&lt;li&gt;&quot;If one is not productive in other spheres, one is not productive in the love either.&quot;&lt;/li&gt;
+
+&lt;li&gt; &quot;If you love yourself, you love everybody else as you do yourself. As long as you love another person less than you love yourself, you will not really succeed in loving yourself, but if you love all alike, including yourself, you will love them as one person. Thus he is a great and righteous person who, loving himself, loves all others equally.&quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;i&gt;― Erich Fromm&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Stranger_(novel)&quot;&gt; “The Outsider” &lt;/a&gt;written by Philosopher Albert Camus&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&quot;I summarized The Stranger a long time ago, with a remark I admit was highly paradoxical: 'In our society any man who does not weep at his mother's funeral runs the risk of being sentenced to death.' I only meant that the hero of my book is condemned because he does not play the game.&quot;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;i&gt;― Albert Camus&lt;/i&gt;
+&lt;br /&gt;
+&lt;p&gt;
+So, the reason I have included this book in the list, is that I always wondered why people could have been judged for not having or showing their feelings and emotions, but not for faking those. For me, the stranger's pure and transparent analyses of his actions help me in some sense figure out and question certain behaviours of mine.
+&lt;/p&gt;
+&lt;/p&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markez.png" /></entry><entry><title type="html">Colombia, Gabriel García Márquez, 100 years of solitude</title><link href="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html" rel="alternate" type="text/html" title="Colombia, Gabriel García Márquez, 100 years of solitude" /><published>2018-04-18T00:00:00+04:00</published><updated>2018-04-18T00:00:00+04:00</updated><id>http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/18/gabriel-garcia-marquez.html">&lt;style&gt;
+    body {
+        margin: auto;
+    	width: 50%;
+    	padding-top:5%;
+    }		
+	a {
+		text-decoration: none;
+		color:#C0D7EF;
+	}
+	h3 {
+		color:grey;
+	}
+	h1 {
+		color:#C0D7EF;
+	}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;takeaways-from-one-hundred-years-of-solitude&quot;&gt;TakeAways from “One Hundred Years of Solitude”&lt;/h3&gt;
+
+&lt;p&gt;Gabriel  García Márquez  was a Colombian novelist. Before starting the analyses of the novel I always like to explore the territory where the writer was living. So, let us first of all try to explore Colombia.
+I would like to figure out things that Colombia is known for first of all. I have used this &lt;a href=&quot;https://www.quora.com/What-is-Colombia-known-for&quot;&gt;link&lt;/a&gt; for reference.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Negative things Colombia is known for:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pablo Escobar and all drug cartels in the 80s and early 90s.&lt;/li&gt;
+  &lt;li&gt;#1 producer of cocaine in the world&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;b&gt;Positive things Colombia is known for:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coffee. Colombian coffee is know all over the world for its softness .&lt;/li&gt;
+  &lt;li&gt;Emeralds. Best emeralds in the world.&lt;/li&gt;
+  &lt;li&gt;Pacemaker first functional one was developed by a Colombian, Jorge Reynolds.&lt;/li&gt;
+  &lt;li&gt;Gabriel García Márquez&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have a great friend from Colombia, who was my roomate in the CIEE conference in a Washington D.C. Daniella Díaz! 
+A very bright person.&lt;/p&gt;
+
+&lt;p&gt;Now, as we know a little bit about the Colombia,  we are ready to narrow down and explore the biography of Markez.&lt;/p&gt;
+
+&lt;p&gt;He pursued a self-directed education that resulted in his leaving law school for a career in journalism. I guess this is one of the reasons he has grown up without any mind boarders and has created great novels for diverse auditory.
+He was popular in style &lt;b&gt;magical realism&lt;/b&gt; , the style where the magical elements are integrated into the ordianry routine. This is another factor that makes his novels so grabbing.&lt;/p&gt;
+
+&lt;p&gt;García Márquez received the Nobel Prize in Literature  “for his novels and short stories, in which the fantastic and the realistic are combined in a richly composed world of imagination, reflecting a continent’s life and conflicts. Upon García Márquez’s death in April 2014, Juan Manuel Santos, the President of Colombia, called him “the greatest Colombian who ever lived. &lt;a href=&quot;https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez#Nobel_Prize&quot;&gt;source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, let’s summarize some takaways from the novel.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed reading the analyses of Mr. Kiely who is a professor of English at Harvard.  You can find the article &lt;a href=&quot;https://archive.nytimes.com/www.nytimes.com/books/97/06/15/reviews/marque-solitude.html?_r=1&quot;&gt;here&lt;/a&gt;. The novel is written in the language of a poet who knows the earth and does not fear it as the enemy of the dreamer.&lt;/p&gt;
+
+&lt;p&gt;I would share here the favorite parts from the previous review that in my perspective could not be depicted and appreciated more.&lt;/p&gt;
+
+&lt;p&gt;The book is a history, not of governments or of formal institutions of the sort which keeps public records, but of a people who, like the earliest descendants of Abraham, are best understood in terms of their relationship to a single family. In a sense, José and Ursula are the only two characters in the story, and all their children, grandchildren and great-grandchildren are variations on their strengths and weaknesses. José, forever fascinated by the unknown, takes up project after project, invention after invention, in order among other things, to make gold, discover the ocean and photograph God. He eventually goes mad, smashes things, refuses to speak except in Latin and is tied to a giant chestnut tree in the middle of the family garden.&lt;/p&gt;
+
+&lt;p&gt;The novel excited me the most as, it gave me an opportunity to follow the rise, development, and the end of the whole Buendias (7 generations) in the small city of Macondo, that they have established. In the development process we are introduced to the way the Buendias love, explore the world, are fighting for their liberal believes. The novel becomes more grabbing when those magical elements are added to the realism. One of the points I think that can be inferred is that the evolution of generations is in some sense looped and is repeated with some relatively small additions. 
+But I think that this inference will be true untill the point where the AI will transcend human intelligence, and after this I think that this loop will be broken. But what will follow after this broken loop, is a deep question that I think contemporary writers of magical realism will try to uleash…&lt;/p&gt;
+
+&lt;p&gt;Sources I have visited to see the percpectives of different people on the novel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=0tK2xtK2OAk&quot;&gt;source 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shmoop.com/one-hundred-years-solitude/setting.html&quot;&gt;source 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://archive.nytimes.com/www.nytimes.com/books/97/06/15/reviews/marque-solitude.html?_r=1&quot;&gt;source 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Interesting&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The sad Armenian (cigan) was putting a spell for making a man invisible.&lt;/li&gt;
+  &lt;li&gt;The novel was astonishing with it’s big sentences(2-3 pages)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The most important takeaway for me is, that we can always escape the antagonism and prejudice of the reality in doing things we love or exploring the universe through adding more dimensions in our minds. While, when is it worth doing? Is it good to always escape it and create our new idealistic reality? Who knows :)&lt;/p&gt;
+
+&lt;p&gt;Favourite parts (translated from the Russian version, therefore may diverge a little from the original)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aureliano Buendia was not interested in trade, the work was helpin g him to fully concentrate, which helped him to find the pure harmony in himself.&lt;/li&gt;
+  &lt;li&gt;The secret to healthy aging is the calm acceptance of lonliness.&lt;/li&gt;
+  &lt;li&gt;Ursula was assured that thie time is built in circle, so everything is repeating.&lt;/li&gt;
+  &lt;li&gt;The border of realliity was so blured that no one could have see it.&lt;/li&gt;
+  &lt;li&gt;The more Remedios the Beauty was realising herself from fashion, searching for comfort,  her beauty was becomming     more intriguing.&lt;/li&gt;
+  &lt;li&gt;The Remedios the Beauty has tolled that will never marry a guy, who is capable of losing an hour of his life, while following a women taking a shower, risking with his lunch.&lt;/li&gt;
+  &lt;li&gt;The love was enough for Remedios the Beauty, but none of the man was converging to the true definition of it.&lt;/li&gt;
+  &lt;li&gt;Ursula has noticed, that all of the family members are following exactly the same route daily, but even they were not noticing it. (We are definitely AI machines :) )&lt;/li&gt;
+  &lt;li&gt;He will learn to think about her in a tranquilized manner, without awakening his feelings.&lt;/li&gt;
+  &lt;li&gt;Meme was paying for her freedom with doing things that were not totally making her happy.&lt;/li&gt;
+  &lt;li&gt;Time is moving in circle. (I am sure that this circle will be traced, at the point of singularity).
+-Nothing interested him, maybe because he did not have any long term memories to relate with the things occuring around.
+( interest~LTM)&lt;/li&gt;
+  &lt;li&gt;In his alive and blue eyes the kindness was shining, a shine characterizing a man who have read all the books of the universe.
+(kindness~books read (mind dimensions))&lt;/li&gt;
+  &lt;li&gt;The Aurelianos purpose of reading books, was not in adding knowledge (mind dimensions), he was just searching the approval of the theories he was already aware about.&lt;/li&gt;
+  &lt;li&gt;The time is enough for everything.&lt;/li&gt;
+  &lt;li&gt;The appocalypse will be when people will travel in a first class, while books will be delievered seperately on trading vagons.&lt;/li&gt;
+  &lt;li&gt;The lovers have lost the sense of reality, the understanding of time and have escaped their routine.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markez.png" /></entry><entry><title type="html">Exploring 100 great authors!</title><link href="http://localhost:4000/blog/2018/04/17/yes.html" rel="alternate" type="text/html" title="Exploring  100 great authors!" /><published>2018-04-17T22:44:00+04:00</published><updated>2018-04-17T22:44:00+04:00</updated><id>http://localhost:4000/blog/2018/04/17/yes</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/17/yes.html">&lt;style&gt;
+		a {
+			 text-decoration: none;
+			 color:#C0D7EF;
+		}
+		b, h3 {
+			color:grey;
+		}
+		h1 {
+		color:#C0D7EF;
+		}
+&lt;/style&gt;
+
+&lt;h3 id=&quot;takeaways-from-one-hundred-years-of-solitude&quot;&gt;TakeAways from “One Hundred Years of Solitude”&lt;/h3&gt;
+&lt;p&gt;Shaping my ideologies through great books!&lt;/p&gt;
+
+&lt;p&gt;I have never been of those kids who were obsessed with books. But I was always inspired by people who read books and by people whose hobby was reading. One of my favorite quotes is “Fake it till You make it” , it is inspired by the disciplines of Sigmund Freud and Alfred Adler, who  developed a therapeutic technique that they called “acting as if”.&lt;br /&gt;
+So, after I got accepted to the university I had a very clear goal that I must start reading and make it my hobby. So, already couple of years have past, I understood that there is no other activity that can add more dimensions to my brain than reading and exploring the great authors.&lt;br /&gt;
+I was 16 when I have chosen by myself the first book in the library that has opened the doors to the great multidimensional world of books. This was a book shaping my introductory view on the discipline of philosophy. The book was “Sophie’s World” novel by Norwegian writer Jostein Gaarder. I would suggest it to every single person who wants to explore and start questioning this great universe through philosophy.&lt;br /&gt;
+I am 21 years old now, I have read books from very diverse disciplines and authors. Today is the day I have decided to start accomplishing one of the goals of my bucket list. The goal is to read at least one novel from 100 greatest writers of the world. This is important for me as in this century of data it’s easy to find the best authors rated on very different factors and start to explore their life perspectives. I am taking as a reference the ranked list &lt;a href=&quot;https://www.ranker.com/list/best-writers-of-all-time/ranker-books?ref=collections&amp;amp;l=684620&amp;amp;collectionId=1563&quot;&gt;here&lt;/a&gt;. While I am not going to follow the presented sequence. The way I will choose the author from the list will depend on varios subjective  factors. 
+I am starting with Gabriel García Márquez - “One Hundred Years of Solitude”. I will share my own analyses of the novel in the future post, which can be found &lt;a href=&quot;https://m4ml.github.io/blog/2018/04/18/gabriel-garcia-marquez.html&quot;&gt;here &lt;/a&gt;.&lt;br /&gt;
+I am also going to share my subjective list of great books that have shaped me and my beliefs &lt;a href=&quot;&quot;&gt;my book list &lt;/a&gt;.&lt;/p&gt;</content><author><name>M4ML</name></author><category term="blog" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">will be available soon</title><link href="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html" rel="alternate" type="text/html" title="will be available soon" /><published>2018-04-17T22:10:00+04:00</published><updated>2018-04-17T22:10:00+04:00</updated><id>http://localhost:4000/project/2018/04/17/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/project/2018/04/17/indigo-jekyll-theme.html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
@@ -20,185 +203,4 @@ Reference https://www.stress.org/what-is-stress/&lt;/p&gt;</content><author><nam
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4000/blog/2016/02/24/markdown-common-elements.html" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00+04:00</published><updated>2016-02-24T22:44:00+04:00</updated><id>http://localhost:4000/blog/2016/02/24/markdown-common-elements</id><content type="html" xml:base="http://localhost:4000/blog/2016/02/24/markdown-common-elements.html">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
-
-&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
-
-&lt;h3 id=&quot;comum-elements&quot;&gt;Comum Elements&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#basic-formatting&quot;&gt;Basic formatting&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#headings&quot;&gt;Headings&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#paragraph-modifiers&quot;&gt;Paragraph Modifiers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#urls&quot;&gt;Urls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#horizontal-rule&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#code&quot;&gt;Code&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And that’s how to do it.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
-
-&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
-
-&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
-
-&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
-
-&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
-## Heading
-### Heading
-#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;A second item&lt;/li&gt;
-  &lt;li&gt;Number 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
-2. A second item
-3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An item&lt;/li&gt;
-  &lt;li&gt;Another item&lt;/li&gt;
-  &lt;li&gt;Yet another item&lt;/li&gt;
-  &lt;li&gt;And there’s more…&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
-* Another item
-* Yet another item
-* And there's more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
-
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
-
-&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A named link to &lt;a href=&quot;http://www.markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Another named link to &lt;a href=&quot;http://markitdown.net/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;http://markitdown.net/&quot;&gt;http://markitdown.net/&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](http://markitdown.net/)
-* Sometimes you just want a URL like &amp;lt;http://markitdown.net/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
-
-&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
-It’s sometimes handy for breaking things up.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
-&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-
-&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;A HTML Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A CSS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A JS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;body&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'show-menu'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#hamburguer__open'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'fast'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry></feed>
+If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png" /></entry></feed>

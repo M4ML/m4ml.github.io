@@ -10,13 +10,13 @@ title: Resume
 
     }
 		h1 {
-			color: #5DADE2;
+			color: #aaa;
 		}
 		h3 {
-		   color: #5DADE2;
+		   color: #aaa;
 		}
 		strong,  a  {
-			color:#AED6F1;
+			color:#aaa;
 		}
 		
 </style>
@@ -62,7 +62,7 @@ Institution: **Physmath** High School Diploma.
 
 
 ### Projects
-Capstone [project](https://github.com/Emma1313/Capstone_Project)
+Capstone [project](https://github.com/M4ML/Capstone_Project)
 
 ### Language Proficiency
 * Armenian (Native) 
