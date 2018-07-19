@@ -1,5 +1,5 @@
 ---
-title: Colombia, Gabriel García Márquez, 100 years of solitude
+title: Colombia, Gabriel García Márquez, "100 years of solitude"
 layout: post
 date: '2018-04-18'
 image: "/assets/images/markez.png"
